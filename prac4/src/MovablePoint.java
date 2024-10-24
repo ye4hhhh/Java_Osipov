@@ -12,7 +12,7 @@ public class MovablePoint implements Movable {
 
     @Override
     public String toString() {
-        return "UIBO0122.pavlov.MovablePoint{" +
+        return "{" +
                 "x=" + x +
                 ", y=" + y +
                 ", xSpeed=" + xSpeed +
