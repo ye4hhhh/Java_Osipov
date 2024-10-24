@@ -20,8 +20,7 @@ public class MovableCircle implements Movable {
 
     @Override
     public String toString() {
-        return "UIBO0122.pavlov.MovableCircle{" +
-                "radius=" + radius +
+        return "{radius=" + radius +
                 ", center=" + center +
                 '}';
     }
